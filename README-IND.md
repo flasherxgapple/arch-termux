@@ -4,7 +4,7 @@ This is Indonesian readme file. if u want English click here [README.md](./READM
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
 ## Tentang Project Ini
-Installer Arch Linux untuk Termux (Android) dengan script. Tanpa Root! Pilih antara Arch minimal atau dengan desktop environment (XFCE4,MATE,LXQT,LXDE) dengan firefox dan keyboard onboard.
+Installer Arch Linux untuk Termux (Android) dengan script. Tanpa Root! Pilih antara Arch minimal atau dengan desktop environment (XFCE4,MATE,LXQT,LXDE) dengan chromium dan keyboard onboard.
 
 ---
 
