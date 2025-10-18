@@ -1,7 +1,7 @@
 # Arch Linux-Termux Setup
 Ini adalah file readme versi Inggris jika mau versi indonesia klik [README-IND.md](./README-IND.md).
 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white)
 
 ## About
 Easily install and configure Arch Linux inside Termux (Android) using automated scripts. No root required! Choose between a minimal setup or a full desktop environment (XFCE4,MATE,LXQT,LXDE) with Chromium and Onboard keyboard.
