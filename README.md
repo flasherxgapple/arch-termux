@@ -8,6 +8,12 @@ Easily install and configure Arch Linux inside Termux (Android) using automated 
 
 ---
 
+![Arch Linux on Termux with LXDE](/arch-termux.jpg)
+*Arch Linux with LXDE running from termux:float*
+
+---
+
+
 ## Features
 - Automated Arch Linux installation in Termux (no root)
 - User creation and sudo setup
