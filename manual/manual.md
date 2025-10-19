@@ -12,22 +12,23 @@ pkg install x11-repo
 pkg install termux-x11-nightly pulseaudio proot-distro git wget
 ```
 
-## 2. Install Debian
+## 2. Install Arch Linux
 ```sh
 proot-distro install archlinux
 proot-distro login archlinux
 ```
 
-## 3. Inside Debian: Initial Setup
+## 3. Inside Arch Linux: Initial Setup
 Update and install essential packages:
 ```sh
-apt update && apt upgrade -y
+pacman -Syu
 pacman -S sudo nano adduser pulseaudio
 ```
 
 Create a new user:
 ```sh
-adduser user
+useradd user
+passwd user
 ```
 Grant sudo access:
 ```sh
