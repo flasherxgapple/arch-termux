@@ -12,7 +12,7 @@ Easily install and configure Arch Linux inside Termux (Android) using automated 
 - Automated Arch Linux installation in Termux (no root)
 - User creation and sudo setup
 - Optional desktop environments
-- Firefox and Onboard keyboard included for desktop setups
+- Chromium and Onboard keyboard included for desktop setups
 - Simple, step-by-step instructions
 - English & Indonesian script language
 - Failsafe Feature
