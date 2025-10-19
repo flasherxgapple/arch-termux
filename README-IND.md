@@ -12,10 +12,10 @@ Installer Arch Linux untuk Termux (Android) dengan script. Tanpa Root! Pilih ant
 - Instalasi otomatis ArchLinux di Termux (Tanpa root)
 - Pembuatan user dan penyiapan Superuser
 - Penginstalan desktop environment
-- Firefox dan keyboard Onboard sebagai pendukung
+- Chromium dan keyboard Onboard sebagai pendukung
 - Langkah mudah & interaktif
 - Berbahasa Inggris & Indonesia
-- Fitur Failsafe
+- Fitur Failsafe (dalam pengembangan)
 
 ---
 
