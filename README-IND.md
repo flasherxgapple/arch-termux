@@ -8,6 +8,11 @@ Installer Arch Linux untuk Termux (Android) dengan script. Tanpa Root! Pilih ant
 
 ---
 
+![Arch Linux di Termux dengan LXDE](/arch-termux.jpg)
+*Arch Linuxdengan LXDE berjalan dari termux:float*
+
+---
+
 ## Fitur
 - Instalasi otomatis ArchLinux di Termux (Tanpa root)
 - Pembuatan user dan penyiapan Superuser
