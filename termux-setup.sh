@@ -15,7 +15,7 @@ fi
 if [[ "$lang_choice" == "2" ]]; then
   echo "============================================================"
   echo "Selamat datang di installer Arch-Termux"
-  echo "Script ini akan menyiapkan Termux untuk instalasi arch."
+  echo "Script ini akan menyiapkan Termux untuk instalasi Arch Linux."
   echo "Pembuat: Flasher/Efendi"
   echo "Github: github.com/flasherxgapple"
   echo "============================================================"
@@ -51,23 +51,23 @@ fi
 
 
   echo "------------------------------------------------------------------"
-  echo "PENTING: Setelah script penyiapan ini selesai, jalankan script installer kedua di dalam shell Debian."
+  echo "PENTING: Setelah script penyiapan ini selesai, jalankan script installer kedua di dalam shell Arch Linux."
   echo "Silakan ikuti instruksi di README untuk langkah selanjutnya."
   echo "------------------------------------------------------------------"
 
-  echo ">>> Menginstal Debian..."
+  echo ">>> Menginstal Arch Linux..."
   proot-distro install archlinux
 
-  echo ">>> Masuk ke shell Debian..."
+  echo ">>> Masuk ke shell Arch Linux..."
   sleep 5
   proot-distro login archlinux
 
-  echo ">>> Setup selesai! Debian telah terinstal :3"
+  echo ">>> Setup selesai! Arch Linux telah terinstal :3"
   echo "Flasher :3"
 else
   echo "============================================================"
-  echo "Welcome to the Debian-Termux automated setup by Flasher!"
-  echo "This script will prepare your Termux environment and install Debian GNU/Linux."
+  echo "Welcome to the Arch-Termux automated setup by Flasher!"
+  echo "This script will prepare your Termux environment and install Arch Linux."
   echo "Created by Flasher/Efendi"
   echo "Github: github.com/flasherxgapple"
   echo "============================================================"
@@ -89,17 +89,17 @@ else
 
 
   echo "------------------------------------------------------------------"
-  echo "IMPORTANT: After this script completes, you must run the second setup script inside the Debian shell."
+  echo "IMPORTANT: After this script completes, you must run the second setup script inside the Arch Linux shell."
   echo "Please follow the instructions in the README for the next steps."
   echo "------------------------------------------------------------------"
 
-  echo ">>> Installing Debian..."
+  echo ">>> Installing Arch linux..."
   proot-distro install archlinux
 
-  echo ">>> Entering the Debian environment..."
+  echo ">>> Entering the Arch Linux environment..."
   sleep 5
   proot-distro login archlinux
 
-  echo ">>> Setup complete! You now have Debian Installed :3"
+  echo ">>> Setup complete! You now have Arch Linux Installed :3"
 
 fi
