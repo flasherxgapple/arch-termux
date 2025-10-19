@@ -31,7 +31,7 @@ if [[ "$lang_choice" == "2" ]]; then
   echo "Proses ini mungkin memakan waktu. Pastikan koneksi internet Anda stabil."
   pacman -Syu
 
-  echo ">>> Menginstal program penting: sudo, nano, adduser, pulseaudio..."
+  echo ">>> Menginstal program penting: sudo, nano, pulseaudio..."
   pacman -S sudo nano pulseaudio dbus
 
 echo ">>> Membuat user baru..."
@@ -58,7 +58,7 @@ echo "  3) LXDE Desktop Environment (Ringan & klasik)"
 echo "  4) LXQt Desktop Environment (Ringan & modern)"
 echo "  5) MATE Desktop Environment (Klasik & stabil)"
 echo "============================================================"
-echo "Untuk desktop environment, Firefox dan Onboard (keyboard virtual) akan diinstal otomatis."
+echo "Untuk desktop environment, Chromium dan Onboard (keyboard virtual) akan diinstal otomatis."
 echo "Pilih opsi dengan memasukkan angka yang sesuai (1, 2, 3, 4, atau 5):"
 read -p "Masukkan pilihan Anda [1/2/3/4/5]: " de_choice
 echo
@@ -128,7 +128,7 @@ else
   echo "This may take a while. Please ensure you have a stable internet connection."
   pacman -Syu
 
-  echo ">>> Installing essential packages: sudo, nano, adduser, pulseaudio..."
+  echo ">>> Installing essential packages: sudo, nano, pulseaudio..."
   pacman -S sudo nano pulseaudio dbus
 
 echo ">>> Setting up a new user..."
@@ -155,7 +155,7 @@ echo "  3) LXDE Desktop Environment (Lightweight & Classic)"
 echo "  4) LXQt Desktop Environment (Lightweight & Modern)"
 echo "  5) MATE Desktop Environment (Classic & Stable)"
 echo "============================================================"
-echo "For desktop environments, Firefox and Onboard (on-screen keyboard) will be installed automatically."
+echo "For desktop environments, Chromium and Onboard (on-screen keyboard) will be installed automatically."
 echo "Choose an option by entering the corresponding number (1, 2, 3, 4, or 5):"
 read -p "Enter your choice [1/2/3/4/5]: " de_choice
 echo
