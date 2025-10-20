@@ -28,7 +28,7 @@ Installer Arch Linux untuk Termux (Android) dengan script. Tanpa Root! Pilih ant
 
 ### Persyaratan Minimal
 - Android 7.0 Nougat atau lebih tinggi
-- 2 GB RAM (Minimum)
+- 1,5 GB RAM (Minimum)
 - Koneksi internet yg stabil
 - Penyimpanan yang mencukupi (lihat opsi Desktop Environment dibawah)
 
@@ -41,7 +41,7 @@ Installer Arch Linux untuk Termux (Android) dengan script. Tanpa Root! Pilih ant
 
 - <strong>Minimal (Tanpa desktop environment):</strong>
   - Hanya program yg dibutuhkan (sudo, nano, adduser, pulseaudio)
-  - installasi tercepat, download terkecil (~50-100 MB)
+  - installasi tercepat, download terkecil (~50-200 MB)
 
 - <strong>XFCE4 Desktop Environment:</strong>
   - XFCE4, XFCE4 Terminal, Firefox ESR, Onboard
@@ -64,7 +64,7 @@ Installer Arch Linux untuk Termux (Android) dengan script. Tanpa Root! Pilih ant
 - <strong>MATE Desktop Environment:</strong>
   - MATE, Firefox ESR, Onboard
   - Klasik, stabil
-  - Ukuran Download: ~500-700 MB
+  - Ukuran Download: ~400-700 MB
   - Ukuran Installasi: ~1.2-1.7 GB
 
 <em>Ukuran sebenarnya tergantung repository dan mirror(server) yang digunakan. Pastikan untuk memiliki penyimpana yang cukup dan kecepatan internet yang stabil.</em>
