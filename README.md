@@ -29,7 +29,7 @@ Easily install and configure Arch Linux inside Termux (Android) using automated 
 
 ### Minimum Requirements
 - Android 7.0 Nougat or higher
-- 2 GB RAM (minimum)
+- 1,5 GB RAM (minimum)
 - Stable internet connection
 - Sufficient storage (see Desktop Environment options below)
 
@@ -42,7 +42,7 @@ Easily install and configure Arch Linux inside Termux (Android) using automated 
 
 - <strong>Minimal (no desktop environment):</strong>
   - Only essential packages (sudo, nano, adduser, pulseaudio)
-  - Fastest install, smallest download (~50-100 MB)
+  - Fastest install, smallest download (~50-200 MB)
 
 - <strong>XFCE4 Desktop Environment:</strong>
   - XFCE4, XFCE4 Terminal, Firefox ESR, Onboard
@@ -65,7 +65,7 @@ Easily install and configure Arch Linux inside Termux (Android) using automated 
 - <strong>MATE Desktop Environment:</strong>
   - MATE, Firefox ESR, Onboard
   - Classic, stable interface
-  - Download size: ~500-700 MB
+  - Download size: ~400-700 MB
   - Installed size: ~1.2-1.7 GB
 
 <em>Actual sizes may vary depending on package updates and mirrors. Ensure you have enough storage and a stable internet connection.</em>
